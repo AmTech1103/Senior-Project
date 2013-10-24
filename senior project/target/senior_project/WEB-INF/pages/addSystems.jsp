@@ -1,9 +1,8 @@
 <%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ page session="false" %>
 <html>
 <head>
-	<link href="resources/css/main.css" rel="stylesheet" type="text/css">
+	<link href= "/resources/css/bootstrap.css" rel="stylesheet" type="text/css">
 	<title>Home</title>
 </head>
 <body>
