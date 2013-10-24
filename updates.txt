@@ -1,0 +1,11 @@
+Updates:
+
+Donald & Ray:
+
+Created the Controllers
+Index Class
+system Class
+Student Class
+Release Class
+UI
+
